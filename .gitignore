@@ -1,0 +1,17 @@
+*.suo
+*.exe
+*.dll
+*.pdb
+Grades/Grades/bin/Debug/*
+Grades/Grades/obj/Debug/*
+Grades/Grades/bin/Release/*
+Grades/Grades/obj/Release/*
+Grades/Grades.Tests/bin/Debug/*
+Grades/Grades.Tests/obj/Debug/*
+Grades/Grades.Tests/bin/Release/*
+Grades/Grades.Tests/obj/Release/*
+Grades/.vs/JobAgent
+packages
+*.lnk
+db.lock
+storage.ide
