@@ -131,6 +131,10 @@ namespace Grades
             return statement;
         }
 
+        /// <summary>
+        /// Get amount of grades
+        /// </summary>
+        /// <returns>Count of grades</returns>
         public int GetCount()
         {
             return grades.Count;

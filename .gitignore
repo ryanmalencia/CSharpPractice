@@ -10,7 +10,7 @@ Grades/Grades.Tests/bin/Debug/*
 Grades/Grades.Tests/obj/Debug/*
 Grades/Grades.Tests/bin/Release/*
 Grades/Grades.Tests/obj/Release/*
-Grades/.vs/JobAgent
+Grades/.vs/Grades
 packages
 *.lnk
 db.lock
